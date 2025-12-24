@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/755cf1eb-95e7-4647-a426-e0a6f8238dba/thumbnail" >
+</p>
+
 <!--
 **tyrannikal/tyrannikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
