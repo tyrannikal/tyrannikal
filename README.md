@@ -10,7 +10,7 @@ I'm returning to software engineering after many years away. C/C++ and Java were
 **Currently reading:**
 * *The Pragmatic Programmer: Your Journey to Mastery (David Thomas, Andrew Hunt)*
 
-**Coding Book Library:**
+**Library:**
 * *Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)*
 
 
