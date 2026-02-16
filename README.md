@@ -12,7 +12,7 @@ I'm returning to software engineering after many years away. C/C++ and Java were
 
 
 **Currently reading:**
-* Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
+* *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)*
 
 **Library:**
 * *Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)*
