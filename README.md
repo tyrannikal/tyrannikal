@@ -7,7 +7,9 @@
 
 
 
-I'm returning to software engineering after many years away practicing law. C/C++ and Java were my home before. Today, I'm learning Rust, Python, and Go will work its way in there eventually. Stylistically I'm loving Tiger Style. Here's to reliability, less debugging, and a better night's sleep 💤.
+I'm returning to software engineering after many years away practicing law. C/C++ and Java were my home before. Today, I'm learning Rust, and Python is a nice back-pocket. Philosophically, I'm loving [Tiger Style](https://tigerstyle.dev/). Here's to reliability, less debugging, and a better night's sleep 💤.
+
+---
 
 
 
@@ -18,14 +20,14 @@ I'm returning to software engineering after many years away practicing law. C/C+
 
 
 
-
-
-
+**Codeberg (might transition, dual-pushing atm)**  
+[Codgeberg/tyrannikal](https://codeberg.org/tyrannikal?tab=activity)
 
 
 
 **Currently Working:**
 * *Rust: The Book*
+* *init_blaze* (Ratatui-based project wizard)
 
 
 
@@ -46,7 +48,7 @@ I'm returning to software engineering after many years away practicing law. C/C+
 * Algorithms to Live By: *The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)*
 * The Pragmatic Programmer: *Your Journey to Mastery (David Thomas, Andrew Hunt)*
 
-
+---
 
 
 
