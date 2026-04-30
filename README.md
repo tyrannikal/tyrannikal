@@ -27,7 +27,7 @@ I'm returning to software engineering after many years away practicing law. C/C+
 
 **Currently Working:**
 * *Rust: The Book*
-* *init_blaze* (Ratatui-based project wizard)
+* *cinderbox* (Ratatui-based project wizard)
 
 
 
